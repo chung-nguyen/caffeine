@@ -1,0 +1,3 @@
+[submodule "caffeine-core"]
+	path = caffeine-core
+	url = https://github.com/chung-nguyen/caffeine-core
